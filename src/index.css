@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+.post{
+  padding : 5px;
+  border: 2px solid black;
+  margin : 3px;
+}
+
+.postTitle{
+  font-family: "Poppins";
+  padding : 20px;
+}
+
+.postContent{
+  font-family: "Poppins";
+  padding : 20px;
+}
+
+.form{
+  font-family: "Poppins";
+  text-align: center;
+  font-size : 20px;
+}
+
+.button{
+  padding: 10px;
+  background-color: black;
+  color : white;
+  border-radius: 6px;
+  margin: 10px;
+}
+
+.timeago{
+  text-align: right;
+}
+
+.author{
+  padding-left: 20px;
+}
